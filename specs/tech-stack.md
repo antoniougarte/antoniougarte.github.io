@@ -33,3 +33,11 @@
 | Estilos | CSS vanilla en un archivo único o lo estrictamente necesario. Sin preprocesadores innecesarios. |
 | Git | Ramas por feature siguiendo el flujo SDD. Commits claros y descriptivos. |
 | JavaScript | Evitarlo. Solo agregar si hay una razón de UX irrefutable y justificada. |
+
+## Adicional
+- **Mobile first:** El diseño debe ser responsive con enfoque mobile first. Usar breakpoints mínimos y únicamente cuando sea necesario para mejorar la legibilidad en pantallas mayores.
+
+## Convenciones adicionales
+| Aspecto | Convención |
+| --- | --- |
+| Responsive | **Mobile first.** El diseño debe partir de estilos para móviles. Usar breakpoints mínimos y únicamente cuando sea necesario para mejorar la legibilidad en pantallas mayores.

@@ -1,0 +1,13 @@
+{
+  "name": "blog-paulo-ugarte",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Blog minimalista - Paulo Ugarte",
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "serve": "npx @11ty/eleventy --serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
