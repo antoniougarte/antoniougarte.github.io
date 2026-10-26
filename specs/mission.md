@@ -1,7 +1,7 @@
 # mission.md
 
 ## Misión
-Crear un sitio web estático, minimalista y profesional que funcione como un blog personal de Paulo Ugarte. Su propósito es compartir conocimiento práctico sobre desarrollo de software, empezando con una guía clara para aprender y aplicar Spec-Driven Development (SDD) con agentes de IA de la manera correcta.
+Crear un sitio web estático, minimalista y profesional que funcione como un blog personal de Antonio Ugarte. Su propósito es compartir conocimiento práctico sobre desarrollo de software, empezando con una guía clara para aprender y aplicar Spec-Driven Development (SDD) con agentes de IA de la manera correcta.
 
 ## Público Objetivo
 Principalmente desarrolladores de software, programadores o cualquier persona interesada en aprender SDD y cómo ponerlo en práctica junto a agentes de IA. 

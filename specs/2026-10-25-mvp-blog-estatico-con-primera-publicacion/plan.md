@@ -23,7 +23,7 @@ blog/
 
 ## Decisiones
 - Seguir criterio usando convenciones de `tech-stack.md` (Eleventy + HTML + CSS vanilla).
-- Diseño minimalista puro: header con "Paulo Ugarte", footer minimalista. Sin tagline extra.
+- Diseño minimalista puro: header con "Antonio Ugarte", footer minimalista. Sin tagline extra.
 - SEO pragmático tal como se acordó.
 
 ## Grupos de Tareas (Orden de ejecución)

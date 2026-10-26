@@ -9,7 +9,7 @@ Validar que el MVP cumple con todos los criterios de aceptación definidos en `r
 - [ ] No hay errores de sintaxis en `.eleventy.js`, plantillas `.njk` o CSS.
 
 ## Validación Funcional (Manual)
-- [ ] **Home**: Carga correctamente, muestra header "Paulo Ugarte", footer minimalista y enlace al artículo.
+- [ ] **Home**: Carga correctamente, muestra header "Antonio Ugarte", footer minimalista y enlace al artículo.
 - [ ] **Artículo**: `/guia-practica-sdd-con-agentes-ia/` renderiza la guía completa con formato legible.
 - [ ] **Navegación**: Mínima y funcional.
 - [ ] **URLs**: Limpias en `kebab-case`.

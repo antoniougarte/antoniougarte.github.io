@@ -5,7 +5,7 @@
 ### Añadido
 - Constitución del proyecto en `specs/` (`mission.md`, `tech-stack.md`, `roadmap.md`)
 - Feature MVP: Blog estático con Eleventy
-- Layout base minimalista con header "Paulo Ugarte", footer
+- Layout base minimalista con header "Antonio Ugarte", footer
 - Home con enlace a la primera publicación
 - Primera publicación: `GUIA_PRACTICA_SDD_CON_AGENTES_IA.md` renderizada como artículo
 - Estilos CSS vanilla, diseño mobile first
