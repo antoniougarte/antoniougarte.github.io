@@ -1,9 +1,9 @@
-const markdownIt = require("markdown-it");
-const markdownItAnchor = require("markdown-it-anchor");
+import markdownIt from "markdown-it"
+import markdownItAnchor from "markdown-it-anchor"
 
-module.exports = function(eleventyConfig) {
-  eleventyConfig.addPassthroughCopy("src/css");
+export default async function(eleventyConfig) { 
   
+  eleventyConfig.addPassthroughCopy("src/css");
   eleventyConfig.addFilter("year", function() {
     return new Date().getFullYear();
   });
