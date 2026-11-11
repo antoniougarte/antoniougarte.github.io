@@ -1,9 +1,6 @@
 ---
-layout: base.njk
 title: "Guía Práctica: Spec-Driven Development (SDD) con Agentes de IA"
 description: "Guía práctica para aplicar Spec-Driven Development con agentes de IA: mentalidad arquitecto vs constructor, constitución, ciclo por funcionalidad y checklist."
-permalink: /guia-practica-sdd-con-agentes-ia/
-ogType: "article"
 ---
 
 # Guía Práctica: Spec-Driven Development (SDD) con Agentes de IA

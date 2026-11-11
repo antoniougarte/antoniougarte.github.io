@@ -7,6 +7,8 @@ ogType: "website"
 <h2>Proyectos</h2>
 <p>En desarrollo...</p>
 <h2>Blog</h2>
-<p>
-    <a href="/guia-practica-sdd-con-agentes-ia/">Guía Práctica: Spec-Driven Development (SDD) con Agentes de IA</a>
-</p>
+<ul>
+{% for post in collections.posts | reverse %}
+    <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+{% endfor %}
+</ul>
